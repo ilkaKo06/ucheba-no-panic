@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /admin/
+
+Allow: /
+
+Sitemap: https://ilkaKo06.github.io/ucheba-no-panic/sitemap.xml
